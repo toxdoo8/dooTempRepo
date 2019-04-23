@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.7.1 on darwin)" generated="20181109 13:26:59.533">
+<suite id="s1" name="Byton-Home" source="/Users/chang.zheng/github/dooTempRepo/byton-website/tests/byton-home.robot">
+<test id="s1-t1" name="Should be albe to access &quot;Byton Home&quot; page">
+<kw name="Open Web Test" library="CommonWeb" type="setup">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>With ${BROWSER} open browser to ${URL}</arg>
+</arguments>
+<msg timestamp="20181109 13:26:59.806" level="INFO">With firefox open browser to http://www.byton.com</msg>
+<status status="PASS" starttime="20181109 13:26:59.806" endtime="20181109 13:26:59.806"></status>
+</kw>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>about:blank</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20181109 13:26:59.807" level="INFO">Opening browser 'firefox' to base url 'about:blank'.</msg>
+<status status="PASS" starttime="20181109 13:26:59.806" endtime="20181109 13:27:09.585"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:26:59.806" endtime="20181109 13:27:09.587"></status>
+</kw>
+<kw name="Login to byton website as">
+<arguments>
+<arg>chang@bytong.com</arg>
+<arg>abc123</arg>
+</arguments>
+<msg timestamp="20181109 13:27:09.604" level="FAIL">No keyword with name 'Login to byton website as' found.</msg>
+<status status="FAIL" starttime="20181109 13:27:09.604" endtime="20181109 13:27:09.604"></status>
+</kw>
+<kw name="End Web Test" library="CommonWeb" type="teardown">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Closing test browser</arg>
+</arguments>
+<msg timestamp="20181109 13:27:09.607" level="INFO">Closing test browser</msg>
+<status status="PASS" starttime="20181109 13:27:09.607" endtime="20181109 13:27:09.607"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20181109 13:27:09.607" endtime="20181109 13:27:10.615"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:09.605" endtime="20181109 13:27:10.616"></status>
+</kw>
+<status status="FAIL" starttime="20181109 13:26:59.805" endtime="20181109 13:27:10.616" critical="yes">No keyword with name 'Login to byton website as' found.</status>
+</test>
+<test id="s1-t2" name="&quot;Compnay&quot; page should match requirements">
+<kw name="Open Web Test" library="CommonWeb" type="setup">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>With ${BROWSER} open browser to ${URL}</arg>
+</arguments>
+<msg timestamp="20181109 13:27:10.619" level="INFO">With firefox open browser to http://www.byton.com</msg>
+<status status="PASS" starttime="20181109 13:27:10.619" endtime="20181109 13:27:10.619"></status>
+</kw>
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>about:blank</arg>
+<arg>${BROWSER}</arg>
+</arguments>
+<msg timestamp="20181109 13:27:10.620" level="INFO">Opening browser 'firefox' to base url 'about:blank'.</msg>
+<status status="PASS" starttime="20181109 13:27:10.619" endtime="20181109 13:27:14.684"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:10.618" endtime="20181109 13:27:14.686"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Close test browser</arg>
+</arguments>
+<msg timestamp="20181109 13:27:14.691" level="INFO">Close test browser</msg>
+<status status="PASS" starttime="20181109 13:27:14.689" endtime="20181109 13:27:14.691"></status>
+</kw>
+<kw name="Go to Landing Page" library="FrontOfficeApp">
+<kw name="Navigate to" library="Landing">
+<kw name="Go To" library="SeleniumLibrary">
+<doc>Navigates the active browser instance to the provided ``url``.</doc>
+<arguments>
+<arg>${URL}</arg>
+</arguments>
+<msg timestamp="20181109 13:27:14.695" level="INFO">Opening url 'http://www.byton.com'</msg>
+<status status="PASS" starttime="20181109 13:27:14.693" endtime="20181109 13:27:19.131"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:14.693" endtime="20181109 13:27:19.132"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:14.692" endtime="20181109 13:27:19.132"></status>
+</kw>
+<kw name="Go to &quot;Company&quot; Page" library="FrontOfficeApp">
+<kw name="Click on &quot;Company&quot; Link" library="TopNav">
+<kw name="Click Link" library="SeleniumLibrary">
+<doc>Clicks a link identified by ``locator``.</doc>
+<arguments>
+<arg>Company</arg>
+</arguments>
+<msg timestamp="20181109 13:27:19.134" level="INFO">Clicking link 'Company'.</msg>
+<status status="PASS" starttime="20181109 13:27:19.133" endtime="20181109 13:27:21.813"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:19.133" endtime="20181109 13:27:21.814"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:19.132" endtime="20181109 13:27:21.814"></status>
+</kw>
+<kw name="Validate &quot;Company&quot; Page" library="FrontOfficeApp">
+<kw name="Wait Until Page Contains" library="SeleniumLibrary">
+<doc>Waits until ``text`` appears on current page.</doc>
+<arguments>
+<arg>A global set-up, right from the start</arg>
+</arguments>
+<status status="PASS" starttime="20181109 13:27:21.814" endtime="20181109 13:27:21.870"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:21.814" endtime="20181109 13:27:21.871"></status>
+</kw>
+<kw name="End Web Test" library="CommonWeb" type="teardown">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Closing test browser</arg>
+</arguments>
+<msg timestamp="20181109 13:27:21.873" level="INFO">Closing test browser</msg>
+<status status="PASS" starttime="20181109 13:27:21.873" endtime="20181109 13:27:21.874"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20181109 13:27:21.874" endtime="20181109 13:27:22.731"></status>
+</kw>
+<status status="PASS" starttime="20181109 13:27:21.872" endtime="20181109 13:27:22.732"></status>
+</kw>
+<doc>Document line for test case 1</doc>
+<tags>
+<tag>Regression</tag>
+</tags>
+<status status="PASS" starttime="20181109 13:27:10.617" endtime="20181109 13:27:22.732" critical="yes"></status>
+</test>
+<doc>First script to open website</doc>
+<status status="FAIL" starttime="20181109 13:26:59.536" endtime="20181109 13:27:22.736"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="1">Critical Tests</stat>
+<stat pass="1" fail="1">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0">Regression</stat>
+</tag>
+<suite>
+<stat pass="1" fail="1" id="s1" name="Byton-Home">Byton-Home</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,305 @@
+1540852717768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.6s1jjUMYdmJn"
+1540852720531	Marionette	INFO	Listening on port 58790
+1540852720559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 7ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540852862953	Marionette	INFO	Stopped listening on port 58790
+1540852864333	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.RhF4oX1vlKXY"
+1540852866099	Marionette	INFO	Listening on port 59429
+1540852866141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540852982546	Marionette	INFO	Stopped listening on port 59429
+1540930432728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.5BFxshEJQgTd"
+1540930435222	Marionette	INFO	Listening on port 50594
+1540930435325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930441010	Marionette	INFO	Stopped listening on port 50594
+1540930442655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.rUFC6x8WHjmV"
+1540930449342	Marionette	INFO	Listening on port 50643
+1540930449363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930455584	Marionette	INFO	Stopped listening on port 50643
+1540930470314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.j7YOhhfhiumF"
+1540930472063	Marionette	INFO	Listening on port 50737
+1540930472110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930477957	Marionette	INFO	Stopped listening on port 50737
+1540930479471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.sRjYUlZhHWTW"
+1540930481138	Marionette	INFO	Listening on port 50774
+1540930481231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930486805	Marionette	INFO	Stopped listening on port 50774
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1540930537014	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.fdHG8MepymUC"
+1540930538733	Marionette	INFO	Listening on port 50822
+1540930538795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+1540930544546	Marionette	INFO	Stopped listening on port 50822
+1540930546166	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.LkEU4NgmGlVF"
+1540930547884	Marionette	INFO	Listening on port 50863
+1540930547930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930558615	Marionette	INFO	Stopped listening on port 50863
+1540930612569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.0znx6YGinoGj"
+1540930614281	Marionette	INFO	Listening on port 50917
+1540930614312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930619867	Marionette	INFO	Stopped listening on port 50917
+1540930621313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.0UChBISUMX8G"
+1540930623040	Marionette	INFO	Listening on port 50955
+1540930623079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540930628735	Marionette	INFO	Stopped listening on port 50955
+1540931591048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.PKlyUpUFlCHj"
+1540931597046	Marionette	INFO	Listening on port 51145
+1540931597138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 12ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540931635502	Marionette	INFO	Stopped listening on port 51145
+1540931637057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.ChtN6CmmlHFq"
+1540931638671	Marionette	INFO	Listening on port 51231
+1540931638713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 2ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540931644590	Marionette	INFO	Stopped listening on port 51231
+1540932144826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.aQY0z9Euuxyh"
+1540932147010	Marionette	INFO	Listening on port 51403
+1540932147112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540932169721	Marionette	INFO	Stopped listening on port 51403
+1540932171176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.Eo51JO5KFo1Q"
+1540932172772	Marionette	INFO	Listening on port 51447
+1540932172820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540932178775	Marionette	INFO	Stopped listening on port 51447
+1540932246505	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.64avrMMfusnS"
+1540932248205	Marionette	INFO	Listening on port 51496
+1540932248260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540932275415	Marionette	INFO	Stopped listening on port 51496
+1540932276871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.vAxEnbV4ZUff"
+1540932278580	Marionette	INFO	Listening on port 51537
+1540932278626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540932284218	Marionette	INFO	Stopped listening on port 51537
+1540932497577	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.l0QcYn8P75wb"
+1540932499251	Marionette	INFO	Listening on port 51605
+1540932499332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540932505934	Marionette	INFO	Stopped listening on port 51605
+1540932515671	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.hW13H6rN4VRY"
+1540932517397	Marionette	INFO	Listening on port 51649
+1540932517437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540932522976	Marionette	INFO	Stopped listening on port 51649
+1541088652465	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.eVbmX9TqDUjZ"
+1541088655922	Marionette	INFO	Listening on port 55907
+1541088656003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 46ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1541088663998	Marionette	INFO	Stopped listening on port 55907
+1541088665796	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.pQR2XQkf5gts"
+1541088667622	Marionette	INFO	Listening on port 55968
+1541088667678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1541088675759	Marionette	INFO	Stopped listening on port 55968
+[Child 47395, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1541798820875	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.i8POpiteh7Uk"
+1541798829275	Marionette	INFO	Listening on port 65137
+1541798829470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541798829613	Marionette	INFO	Stopped listening on port 65137
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1541798831646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.OHgjz2zIW841"
+1541798834499	Marionette	INFO	Listening on port 65238
+1541798834515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 2ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1541798841877	Marionette	INFO	Stopped listening on port 65238

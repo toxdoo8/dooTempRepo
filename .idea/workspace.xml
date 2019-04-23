@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa46d6e2-2d21-45d1-9321-133236366b8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bin/.idea/bin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bin/robotFW-sample/base/ice/Demo/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../byton/py-demo/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/Tests/get-selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/Tests/passing-argument.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/Tests/scalar.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/resources/amazon.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon/resources/common.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/dictionaries/Bryan_Lamb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/intro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Inputs/SQL/insert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Inputs/XML/menu-backup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Inputs/XML/menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Inputs/XML/samples/json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Inputs/XML/samples/xml.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/API/Github.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/DB/MySql.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/DB/SQL_Server.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/DB/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/OperatingSystem/OS.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/AmazonApp.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/Common.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/PO/Cart.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/PO/LandingPage.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/PO/Product.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/PO/SearchResults.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/PO/SignIn.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/Web/PO/TopNav.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Resources/XML/Breakfast_Menu.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/api/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/api/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/api/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/built-in/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/built-in/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/built-in/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/built-in/selenium-screenshot-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/built-in/selenium-screenshot-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/dialogs/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/dialogs/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/dialogs/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/my-sql/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/my-sql/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/my-sql/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/operating-system/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/operating-system/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/operating-system/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/sql-server/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/sql-server/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/sql-server/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/xml/log.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/xml/output.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Results/xml/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/API_Tests.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/Built_In.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/Dialogs.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/MySql_Tests.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/Operating_System.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/SQL_Server_Tests.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/Web_Tests.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explore-libraries/Tests/XML_Tests.robot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTemp/temp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyTemp/testdata/audio-test.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1005690025">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LoggerTestInput" value="1" />
+          <entry key="arg" value="13" />
+          <entry key="bat" value="17" />
+          <entry key="dbc" value="14" />
+          <entry key="html" value="2" />
+          <entry key="ini" value="18" />
+          <entry key="log" value="1" />
+          <entry key="note" value="1" />
+          <entry key="png" value="5" />
+          <entry key="py" value="316" />
+          <entry key="robot" value="464" />
+          <entry key="sh" value="1" />
+          <entry key="txt" value="64" />
+          <entry key="uchang" value="1" />
+          <entry key="yaml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="1" />
+          <entry key="Bat" value="15" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="5" />
+          <entry key="PLAIN_TEXT" value="116" />
+          <entry key="Python" value="316" />
+          <entry key="Robot Feature" value="463" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="1460" />
+          <entry key="arg" value="14" />
+          <entry key="bat" value="1125" />
+          <entry key="ini" value="114" />
+          <entry key="py" value="15020" />
+          <entry key="robot" value="18430" />
+          <entry key="sh" value="11" />
+          <entry key="txt" value="1813" />
+          <entry key="yaml" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="11" />
+          <entry key="Bat" value="1123" />
+          <entry key="PLAIN_TEXT" value="1943" />
+          <entry key="Python" value="16480" />
+          <entry key="Robot Feature" value="18430" />
+          <entry key="YAML" value="34" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dooTempRepo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/navi_presetting.robot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#112#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyTemp/mad1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="16" selection-start-line="4" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1555024887265" expanded="true" signature="100:105" ph="..." />
+                <marker date="1555024887265" expanded="true" signature="411:412" ph="..." />
+                <marker date="1555024887265" expanded="true" signature="433:438" ph="..." />
+                <marker date="1555024887265" expanded="true" signature="559:560" ph="..." />
+                <marker date="1555024887265" expanded="true" signature="588:593" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyTemp/temp1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyTemp/re_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/setup/sys_setup.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../byton/ui-ux-sw-test/Stress/stress_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="63" selection-start-line="63" selection-end-line="73" selection-end-column="23" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>robot.run</find>
+      <find>Send Chassis2 Can Signal     @{BatLowSoc}[0]       @{BatLowSoc}[1]=${setOFF}</find>
+      <find>@{SeatbeltWarning}[0]</find>
+      <find>BatLowSoc</find>
+      <find>bat12vStateOfChargeIBSInfo_CDI</find>
+      <find>VehSpeed</find>
+      <find>ESP_iBoostData1ESP_iBoostData1</find>
+      <find>ROCRemainView</find>
+      <find>899</find>
+      <find>BreakStat</find>
+      <find>PwrTrainSysFailure</find>
+      <find>hvInsRes</find>
+      <find>highbeam</find>
+      <find>HVbattStatus</find>
+      <find>CoolantOverTemp</find>
+      <find>TEMPERATURE_WARNINGCoolantOverTemp</find>
+      <find>alex</find>
+      <find>receivers</find>
+      <find>smtp</find>
+      <find>sqa</find>
+      <find>get_evn_config_info</find>
+      <find>load_config</find>
+      <find>self.env_conf</find>
+      <find>get_env_config</find>
+      <find>configparser</find>
+      <find>logger</find>
+      <find>join</find>
+      <find>cry</find>
+      <find>pymy</find>
+      <find>requests</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>TBD</replace>
+      <replace>DynamicStabCtl</replace>
+      <replace>PwrTrainDriveStat</replace>
+      <replace>Rear</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../byton/ice_sqa</dir>
+      <dir>$PROJECT_DIR$/robotframeworkDemo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../byton/ui-ux-sw-test/Stress/stress_config.txt" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/drivetrain/power_train.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/alerts.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/vehicle_speed.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/odometer.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/__init__.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/radio/radio_test.robot" />
+        <option value="$PROJECT_DIR$/../bin/robotFW-sample/base/ice/Demo/demo.py" />
+        <option value="$PROJECT_DIR$/../bin/robotFW-sample/base/ice/Demo/demo_one.py" />
+        <option value="$PROJECT_DIR$/../bin/robotFW-sample/base/ice/Demo/data.txt" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/ic.yaml" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/naviauto.yaml" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/base/common/QNXLogging/__init__.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/safety/safety.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/steering/steering.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/system/system.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/drivetrain/drivetrain.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/__init__.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/driving_lights/lights.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/hv_battery/battery.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/charging/charging.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/res/config/launch_conf.ini" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/auto_launch.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/run_test.bat" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/res/config/env_conf.ini" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/base/common/test_env.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/base/common/QNXLogging/fic_utility.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/base/FlashImage/flash_fic_image.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/base/common/QNXLogging/qnx_log.py" />
+        <option value="$PROJECT_DIR$/pyTemp/log_demo.py" />
+        <option value="$PROJECT_DIR$/../byton/ui-ux-sw-test/Stress/stress_utility.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/brakes/brakes.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/doors/doors.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/base/GPS/time_diff_plot.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/samples/robot-template.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/navigation/baidu_search.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/ice.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/res/config/requirements.txt" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/sys_setup.txt" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/navigation/__init__.robot" />
+        <option value="$PROJECT_DIR$/../byton/automation.txt" />
+        <option value="$PROJECT_DIR$/pyTemp/testdata/testdata_linebreak.txt" />
+        <option value="$PROJECT_DIR$/pyTemp/mad1.py" />
+        <option value="$PROJECT_DIR$/pyTemp/testdata/testdata.txt" />
+        <option value="$PROJECT_DIR$/pyTemp/testdata/config.txt" />
+        <option value="$PROJECT_DIR$/pyTemp/temp1.py" />
+        <option value="$PROJECT_DIR$/pyTemp/testdata/audio-test.txt" />
+        <option value="$PROJECT_DIR$/pyTemp/re_demo.py" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/setup/sys_setup.txt" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/navi_presetting.robot" />
+        <option value="$PROJECT_DIR$/../byton/sqa-ice/os_walk.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="351" />
+    <option name="y" value="-1367" />
+    <option name="width" value="1551" />
+    <option name="height" value="1250" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dooTempRepo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dooTempRepo" type="462c0819:PsiDirectoryNode" />
+              <item name="pyTemp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byton" type="462c0819:PsiDirectoryNode" />
+              <item name="py-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byton" type="462c0819:PsiDirectoryNode" />
+              <item name="sqa-ice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byton" type="462c0819:PsiDirectoryNode" />
+              <item name="ui-ux-sw-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dooTempRepo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="byton" type="462c0819:PsiDirectoryNode" />
+              <item name="ui-ux-sw-test" type="462c0819:PsiDirectoryNode" />
+              <item name="Stress" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice" />
+      <recent name="$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/hv_battery" />
+      <recent name="$PROJECT_DIR$/py-demo" />
+      <recent name="$PROJECT_DIR$/../byton/sqa-ice/actions" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.strip-demo">
+    <configuration name="auto_launch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="byton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../byton/sqa-ice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../byton/sqa-ice/auto_launch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get-selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dooTempRepo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/amazon/resources" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/amazon/tests/get-selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop-demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dooTempRepo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-demo/loop-demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="strip-demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dooTempRepo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-demo/strip-demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="withStatement-demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dooTempRepo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py-demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py-demo/withStatement-demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.withStatement-demo" />
+      <item itemvalue="Python.get-selenium" />
+      <item itemvalue="Python.loop-demo" />
+      <item itemvalue="Python.auto_launch" />
+      <item itemvalue="Python.strip-demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.strip-demo" />
+        <item itemvalue="Python.auto_launch" />
+        <item itemvalue="Python.loop-demo" />
+        <item itemvalue="Python.get-selenium" />
+        <item itemvalue="Python.withStatement-demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa46d6e2-2d21-45d1-9321-133236366b8d" name="Default Changelist" comment="" />
+      <created>1540324012564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540324012564</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="351" y="-1367" width="1551" height="1250" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48466256" visible="true" weight="0.25816995" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5153374" side_tool="true" weight="0.27836505" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25515947" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3798118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" x="519" y="-917" width="1308" height="337" id="Terminal" order="8" sideWeight="0.4972106" visible="true" weight="0.31692573" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5027894" side_tool="true" weight="0.28046596" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49934125" weight="0.37826684" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48466256" visible="true" weight="0.2775826" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5153374" side_tool="true" weight="0.27836505" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25515947" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3798118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" x="519" y="-917" width="1308" height="337" id="Terminal" order="8" sideWeight="0.4972106" weight="0.43127573" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5027894" side_tool="true" weight="0.28046596" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49934125" weight="0.2632541" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../byton/sqa-ice/auto_launch.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../byton/sqa-ice/base/ice/can/DBJson.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../byton/ice-test/icebot/ICEBotLibrary/keywords/nlp.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/res/config/launch_conf.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/base/common/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/base/common/QNXLogging/fic_utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/base/common/test_env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="112" column="20" selection-start-line="112" selection-start-column="20" selection-end-line="112" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/res/config/env_conf.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotframeworkDemo/atest/genrunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/spam.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/log_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/ui-ux-sw-test/Stress/stress_utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/base/common/QNXLogging/qnx_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/audio/amp.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/logging/logging.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/brakes/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/samples/vehicle_speed.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/brakes/brakes.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/samples/sample.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/safety/safety.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/steering/steering.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="117" selection-start-line="44" selection-start-column="117" selection-end-line="44" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/driving_lights/lights.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="75" selection-start-line="44" selection-start-column="75" selection-end-line="44" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/hv_battery/battery.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="53" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/base/GPS/time_diff_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/doors/doors.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="8" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/instrument_cluster/charging/charging.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/samples/robot-template.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/navigation/baidu_search.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/ice.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/navigation/baidu_navigation.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="70" lean-forward="true" selection-start-line="1" selection-start-column="70" selection-end-line="1" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/appium_libs.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/sys_setup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/tests/ice/navigation/__init__.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/template.html" />
+    <entry file="file://$PROJECT_DIR$/../byton/automation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/res/config/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/android_app.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/navi.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/ui-ux-sw-test/Stress/stress_config.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/testdata/testdata_linebreak.txt" />
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/base/FlashImage/flash_fic_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2438">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/navi_navigation.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/testdata/config.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/testdata/testdata.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/testdata/audio-test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/mad1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="16" selection-start-line="4" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1555024887265" expanded="true" signature="100:105" ph="..." />
+            <marker date="1555024887265" expanded="true" signature="411:412" ph="..." />
+            <marker date="1555024887265" expanded="true" signature="433:438" ph="..." />
+            <marker date="1555024887265" expanded="true" signature="559:560" ph="..." />
+            <marker date="1555024887265" expanded="true" signature="588:593" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/ui-ux-sw-test/Stress/stress_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="63" selection-start-line="63" selection-end-line="73" selection-end-column="23" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/setup/sys_setup.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/re_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyTemp/temp1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/os_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../byton/sqa-ice/actions/action-ice/baidumap/navi_presetting.robot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

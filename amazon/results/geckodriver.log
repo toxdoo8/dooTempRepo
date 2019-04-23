@@ -1,0 +1,168 @@
+1540496833204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.CMXr4BbsMicO"
+1540496837696	Marionette	INFO	Listening on port 58175
+1540496837780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540496847950	Marionette	INFO	Stopped listening on port 58175
+1540496855965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.96o0LCpBBHBs"
+1540496857746	Marionette	INFO	Listening on port 58307
+1540496857838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540496863938	Marionette	INFO	Stopped listening on port 58307
+[Child 23300, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1540496956590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.8iHgxswXKwVJ"
+1540496958515	Marionette	INFO	Listening on port 58471
+1540496958581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1540497012366	Marionette	INFO	Stopped listening on port 58471
+1540497023881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.U5LBGZ6l1p1Z"
+1540497025608	Marionette	INFO	Listening on port 58624
+1540497025664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540497029557	Marionette	INFO	Stopped listening on port 58624
+1540497056616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.HUBVgsGIx6TR"
+1540497059431	Marionette	INFO	Listening on port 58697
+1540497059453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540497126224	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.5XkUZDy2d8at"
+1540497128474	Marionette	INFO	Listening on port 58757
+1540497128560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540497135717	Marionette	INFO	Stopped listening on port 58757
+1540497145243	Marionette	INFO	Stopped listening on port 58697
+1540497170557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.BcLNakOB7YEp"
+1540497172711	Marionette	INFO	Listening on port 58859
+1540497172785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 14ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 2ms; not stored in cache (too small to benefit))
+1540497179695	Marionette	INFO	Stopped listening on port 58859
+1540497481813	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.2iRFZ3oCIXI8"
+1540497484958	Marionette	INFO	Listening on port 59001
+1540497485035	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540497500771	Marionette	INFO	Stopped listening on port 59001
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1540497571827	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.tZ1farjpyi97"
+1540497574892	Marionette	INFO	Listening on port 59160
+1540497574909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540497587295	Marionette	INFO	Stopped listening on port 59160
+1540497589888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.erhRSIcMmeyf"
+1540497596265	Marionette	INFO	Listening on port 59282
+1540497596298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540497609267	Marionette	INFO	Stopped listening on port 59282
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540498130395	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.dGC5DTX82Wih"
+1540498134654	Marionette	INFO	Listening on port 59580
+1540498134717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540498157583	Marionette	INFO	Stopped listening on port 59580
+1540498412448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.uj8QDUEkYAZ8"
+1540498418150	Marionette	INFO	Listening on port 59801
+1540498418245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540498639427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.pextQ9rZ8xIm"
+1540498646128	Marionette	INFO	Listening on port 60268
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1540498646322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540498646700	Marionette	INFO	Stopped listening on port 59801
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 34911, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[Parent 34911, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1540498689627	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.zqIJHj4Y8XAx"
+1540498692811	Marionette	INFO	Listening on port 60649
+1540498692847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540498832610	Marionette	INFO	Stopped listening on port 60649
+1540498835348	Marionette	INFO	Stopped listening on port 60268
+1540499394738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.o5DDXd06Y5Qo"
+1540499397883	Marionette	INFO	Listening on port 63787
+1540499397943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540499403607	Marionette	INFO	Stopped listening on port 63787
+1540499629773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.H5sisKG4XJCe"
+1540499632565	Marionette	INFO	Listening on port 64815
+1540499632594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540499647701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.FRH1WxQI9pq0"
+1540499650823	Marionette	INFO	Listening on port 64926
+1540499650934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540499663916	Marionette	INFO	Stopped listening on port 64926
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1540499833006	Marionette	INFO	Stopped listening on port 64815
+1540499837985	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.O6eFJAUVoVYT"
+1540499840129	Marionette	INFO	Listening on port 65152
+1540499840213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540499848356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.UXr7qtqmjcp7"
+1540499852269	Marionette	INFO	Listening on port 65230
+1540499852357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 2ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540499868427	Marionette	INFO	Stopped listening on port 65230
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1540499885383	Marionette	INFO	Stopped listening on port 65152
+1540499945487	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.psnupwrEH5DH"
+1540499947613	Marionette	INFO	Listening on port 65367
+1540499947673	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1540499967051	Marionette	INFO	Stopped listening on port 65367
+1540499970509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.IpdgNuBr4QYA"
+1540499972420	Marionette	INFO	Listening on port 65487
+1540499972506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+1540499981565	Marionette	INFO	Stopped listening on port 65487
+1540499983093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_k/l340nk251tvfmfllt_vgyk7j__cch2/T/rust_mozprofile.tSsyaxOqcsYl"
+1540499984871	Marionette	INFO	Listening on port 49152
+1540499984903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 183: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 191: unreachable code after return statement
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 0ms; not stored in cache (too small to benefit))
+JavaScript warning: https://www.byton.com/visualiser-v2/Build/UnityLoader-NoPopup.js?v=20180508, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+1540499992220	Marionette	INFO	Stopped listening on port 49152

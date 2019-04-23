@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.7.1 on darwin)" generated="20181030 16:03:45.252">
+<suite id="s1" name="Operating-System" source="/Users/chang.zheng/github/dooTempRepo/byton-website/tests/operating-system.robot">
+<test id="s1-t1" name="Create Some Directories">
+<kw name="Create the base directory" library="OS">
+<kw name="Create Directory" library="OperatingSystem">
+<doc>Creates the specified directory.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.295" level="INFO" html="yes">Created directory '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs&lt;/a&gt;'.</msg>
+<status status="PASS" starttime="20181030 16:03:45.295" endtime="20181030 16:03:45.295"></status>
+</kw>
+<kw name="Should Exist" library="OperatingSystem">
+<doc>Fails unless the given path (file or directory) exists.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.296" level="INFO" html="yes">Path '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs&lt;/a&gt;' exists.</msg>
+<status status="PASS" starttime="20181030 16:03:45.295" endtime="20181030 16:03:45.296"></status>
+</kw>
+<status status="PASS" starttime="20181030 16:03:45.294" endtime="20181030 16:03:45.296"></status>
+</kw>
+<kw name="Create directory 1" library="OS">
+<kw name="Join Path" library="OperatingSystem">
+<doc>Joins the given path part(s) to the given base path.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+<arg>${directory_1}</arg>
+</arguments>
+<assign>
+<var>${directory_path}</var>
+</assign>
+<msg timestamp="20181030 16:03:45.297" level="INFO">${directory_path} = Outputs/first directory</msg>
+<status status="PASS" starttime="20181030 16:03:45.296" endtime="20181030 16:03:45.297"></status>
+</kw>
+<kw name="Create Directory" library="OperatingSystem">
+<doc>Creates the specified directory.</doc>
+<arguments>
+<arg>${directory_path}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.297" level="INFO" html="yes">Created directory '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory&lt;/a&gt;'.</msg>
+<status status="PASS" starttime="20181030 16:03:45.297" endtime="20181030 16:03:45.297"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Verify ${directory_path} exists</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.297" level="INFO">Verify Outputs/first directory exists</msg>
+<status status="PASS" starttime="20181030 16:03:45.297" endtime="20181030 16:03:45.297"></status>
+</kw>
+<kw name="Should Exist" library="OperatingSystem">
+<doc>Fails unless the given path (file or directory) exists.</doc>
+<arguments>
+<arg>${directory_path}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.298" level="INFO" html="yes">Path '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory&lt;/a&gt;' exists.</msg>
+<status status="PASS" starttime="20181030 16:03:45.297" endtime="20181030 16:03:45.298"></status>
+</kw>
+<status status="PASS" starttime="20181030 16:03:45.296" endtime="20181030 16:03:45.298"></status>
+</kw>
+<kw name="Create directory 2" library="OS">
+<kw name="Join Path" library="OperatingSystem">
+<doc>Joins the given path part(s) to the given base path.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+<arg>${directory_2}</arg>
+</arguments>
+<assign>
+<var>${directory_path}</var>
+</assign>
+<msg timestamp="20181030 16:03:45.299" level="INFO">${directory_path} = Outputs/second directory</msg>
+<status status="PASS" starttime="20181030 16:03:45.298" endtime="20181030 16:03:45.299"></status>
+</kw>
+<kw name="Create Directory" library="OperatingSystem">
+<doc>Creates the specified directory.</doc>
+<arguments>
+<arg>${directory_path}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.299" level="INFO" html="yes">Created directory '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory&lt;/a&gt;'.</msg>
+<status status="PASS" starttime="20181030 16:03:45.299" endtime="20181030 16:03:45.299"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Verify ${directory_path} exists</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.299" level="INFO">Verify Outputs/second directory exists</msg>
+<status status="PASS" starttime="20181030 16:03:45.299" endtime="20181030 16:03:45.300"></status>
+</kw>
+<kw name="Should Exist" library="OperatingSystem">
+<doc>Fails unless the given path (file or directory) exists.</doc>
+<arguments>
+<arg>${directory_path}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.300" level="INFO" html="yes">Path '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory&lt;/a&gt;' exists.</msg>
+<status status="PASS" starttime="20181030 16:03:45.300" endtime="20181030 16:03:45.300"></status>
+</kw>
+<status status="PASS" starttime="20181030 16:03:45.298" endtime="20181030 16:03:45.300"></status>
+</kw>
+<kw name="Create file 1" library="OS">
+<kw name="Join Path" library="OperatingSystem">
+<doc>Joins the given path part(s) to the given base path.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+<arg>${directory_1}</arg>
+<arg>${file_1}</arg>
+</arguments>
+<assign>
+<var>${file_name}</var>
+</assign>
+<msg timestamp="20181030 16:03:45.301" level="INFO">${file_name} = Outputs/first directory/first file.txt</msg>
+<status status="PASS" starttime="20181030 16:03:45.300" endtime="20181030 16:03:45.301"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${file_name}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.301" level="INFO">Outputs/first directory/first file.txt</msg>
+<status status="PASS" starttime="20181030 16:03:45.301" endtime="20181030 16:03:45.301"></status>
+</kw>
+<kw name="Create File" library="OperatingSystem">
+<doc>Creates a file with the given content and encoding.</doc>
+<arguments>
+<arg>${file_name}</arg>
+<arg>Hello World!</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.302" level="INFO" html="yes">Created file '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory/first file.txt"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory/first file.txt&lt;/a&gt;'.</msg>
+<status status="PASS" starttime="20181030 16:03:45.301" endtime="20181030 16:03:45.302"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Verify ${file_name} exists</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.302" level="INFO">Verify Outputs/first directory/first file.txt exists</msg>
+<status status="PASS" starttime="20181030 16:03:45.302" endtime="20181030 16:03:45.302"></status>
+</kw>
+<kw name="Should Exist" library="OperatingSystem">
+<doc>Fails unless the given path (file or directory) exists.</doc>
+<arguments>
+<arg>${file_name}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.302" level="INFO" html="yes">Path '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory/first file.txt"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/first directory/first file.txt&lt;/a&gt;' exists.</msg>
+<status status="PASS" starttime="20181030 16:03:45.302" endtime="20181030 16:03:45.302"></status>
+</kw>
+<status status="PASS" starttime="20181030 16:03:45.300" endtime="20181030 16:03:45.302"></status>
+</kw>
+<kw name="Create file 2" library="OS">
+<kw name="Join Path" library="OperatingSystem">
+<doc>Joins the given path part(s) to the given base path.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+<arg>${directory_2}</arg>
+<arg>${file_2}</arg>
+</arguments>
+<assign>
+<var>${file_name}</var>
+</assign>
+<msg timestamp="20181030 16:03:45.303" level="INFO">${file_name} = Outputs/second directory/second file.txt</msg>
+<status status="PASS" starttime="20181030 16:03:45.303" endtime="20181030 16:03:45.303"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${file_name}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.303" level="INFO">Outputs/second directory/second file.txt</msg>
+<status status="PASS" starttime="20181030 16:03:45.303" endtime="20181030 16:03:45.303"></status>
+</kw>
+<kw name="Create File" library="OperatingSystem">
+<doc>Creates a file with the given content and encoding.</doc>
+<arguments>
+<arg>${file_name}</arg>
+<arg>Hello World!</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.304" level="INFO" html="yes">Created file '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/second file.txt"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/second file.txt&lt;/a&gt;'.</msg>
+<status status="PASS" starttime="20181030 16:03:45.303" endtime="20181030 16:03:45.304"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Verify ${file_name} exists</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.304" level="INFO">Verify Outputs/second directory/second file.txt exists</msg>
+<status status="PASS" starttime="20181030 16:03:45.304" endtime="20181030 16:03:45.304"></status>
+</kw>
+<kw name="Should Exist" library="OperatingSystem">
+<doc>Fails unless the given path (file or directory) exists.</doc>
+<arguments>
+<arg>${file_name}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.304" level="INFO" html="yes">Path '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/second file.txt"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/second file.txt&lt;/a&gt;' exists.</msg>
+<status status="PASS" starttime="20181030 16:03:45.304" endtime="20181030 16:03:45.305"></status>
+</kw>
+<status status="PASS" starttime="20181030 16:03:45.303" endtime="20181030 16:03:45.305"></status>
+</kw>
+<kw name="Create file 3" library="OS">
+<kw name="Join Path" library="OperatingSystem">
+<doc>Joins the given path part(s) to the given base path.</doc>
+<arguments>
+<arg>${out_directory}</arg>
+<arg>${directory_2}</arg>
+<arg>${file_3}</arg>
+</arguments>
+<assign>
+<var>${file_name}</var>
+</assign>
+<msg timestamp="20181030 16:03:45.305" level="INFO">${file_name} = Outputs/second directory/third file.txt</msg>
+<status status="PASS" starttime="20181030 16:03:45.305" endtime="20181030 16:03:45.305"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${file_name}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.305" level="INFO">Outputs/second directory/third file.txt</msg>
+<status status="PASS" starttime="20181030 16:03:45.305" endtime="20181030 16:03:45.306"></status>
+</kw>
+<kw name="Create File" library="OperatingSystem">
+<doc>Creates a file with the given content and encoding.</doc>
+<arguments>
+<arg>${file_name}</arg>
+<arg>Hello World!</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.306" level="INFO" html="yes">Created file '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/third file.txt"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/third file.txt&lt;/a&gt;'.</msg>
+<status status="PASS" starttime="20181030 16:03:45.306" endtime="20181030 16:03:45.306"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>Verify ${file_name} exists</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.306" level="INFO">Verify Outputs/second directory/third file.txt exists</msg>
+<status status="PASS" starttime="20181030 16:03:45.306" endtime="20181030 16:03:45.306"></status>
+</kw>
+<kw name="Should Exist" library="OperatingSystem">
+<doc>Fails unless the given path (file or directory) exists.</doc>
+<arguments>
+<arg>${file_name}</arg>
+</arguments>
+<msg timestamp="20181030 16:03:45.307" level="INFO" html="yes">Path '&lt;a href="file:///Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/third file.txt"&gt;/Users/chang.zheng/github/dooTempRepo/byton-website/Outputs/second directory/third file.txt&lt;/a&gt;' exists.</msg>
+<status status="PASS" starttime="20181030 16:03:45.307" endtime="20181030 16:03:45.307"></status>
+</kw>
+<status status="PASS" starttime="20181030 16:03:45.305" endtime="20181030 16:03:45.307"></status>
+</kw>
+<tags>
+<tag>OperatingSystem</tag>
+</tags>
+<status status="PASS" starttime="20181030 16:03:45.294" endtime="20181030 16:03:45.307" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20181030 16:03:45.259" endtime="20181030 16:03:45.307"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0">OperatingSystem</stat>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Operating-System">Operating-System</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

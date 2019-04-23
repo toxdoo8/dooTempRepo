@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.7.1 on darwin)" generated="20181026 09:08:09.372">
+<suite id="s1" name="Demo" source="/Users/chang.zheng/github/dooTempRepo/amazon/tests/demo.robot">
+<test id="s1-t1" name="Test case 1">
+<kw name="Do Something">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>I am doing something...</arg>
+</arguments>
+<msg timestamp="20181026 09:08:09.560" level="INFO">I am doing something...</msg>
+<status status="PASS" starttime="20181026 09:08:09.559" endtime="20181026 09:08:09.560"></status>
+</kw>
+<status status="PASS" starttime="20181026 09:08:09.559" endtime="20181026 09:08:09.560"></status>
+</kw>
+<kw name="Do Something Else">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>I am doing something else...</arg>
+</arguments>
+<msg timestamp="20181026 09:08:09.560" level="INFO">I am doing something else...</msg>
+<status status="PASS" starttime="20181026 09:08:09.560" endtime="20181026 09:08:09.560"></status>
+</kw>
+<status status="PASS" starttime="20181026 09:08:09.560" endtime="20181026 09:08:09.560"></status>
+</kw>
+<status status="PASS" starttime="20181026 09:08:09.558" endtime="20181026 09:08:09.561" critical="yes"></status>
+</test>
+<test id="s1-t2" name="Test case 2">
+<kw name="Do Another Thing">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>I am doing another thing...</arg>
+</arguments>
+<msg timestamp="20181026 09:08:09.562" level="INFO">I am doing another thing...</msg>
+<status status="PASS" starttime="20181026 09:08:09.562" endtime="20181026 09:08:09.562"></status>
+</kw>
+<status status="PASS" starttime="20181026 09:08:09.561" endtime="20181026 09:08:09.562"></status>
+</kw>
+<kw name="Do Something Else">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>I am doing something else...</arg>
+</arguments>
+<msg timestamp="20181026 09:08:09.562" level="INFO">I am doing something else...</msg>
+<status status="PASS" starttime="20181026 09:08:09.562" endtime="20181026 09:08:09.562"></status>
+</kw>
+<status status="PASS" starttime="20181026 09:08:09.562" endtime="20181026 09:08:09.562"></status>
+</kw>
+<status status="PASS" starttime="20181026 09:08:09.561" endtime="20181026 09:08:09.563" critical="yes"></status>
+</test>
+<doc>This is basic info about the Byton test cases</doc>
+<status status="PASS" starttime="20181026 09:08:09.375" endtime="20181026 09:08:09.563"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0">Critical Tests</stat>
+<stat pass="2" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="2" fail="0" id="s1" name="Demo">Demo</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.7.1 on darwin)" generated="20181026 13:33:14.506">
+<suite id="s1" name="Scalar" source="/Users/chang.zheng/github/dooTempRepo/amazon/tests/scalar.robot">
+<test id="s1-t1" name="Test case 1">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>print my ${MY_VAR1}</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.536" level="INFO">print my This is my first variable</msg>
+<status status="PASS" starttime="20181026 13:33:14.536" endtime="20181026 13:33:14.536"></status>
+</kw>
+<status status="PASS" starttime="20181026 13:33:14.536" endtime="20181026 13:33:14.537" critical="yes"></status>
+</test>
+<test id="s1-t2" name="Test case 2">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_var2}[0]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.537" level="INFO">This is item 1</msg>
+<status status="PASS" starttime="20181026 13:33:14.537" endtime="20181026 13:33:14.537"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_var2}[1]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.538" level="INFO">The item 2 i the list</msg>
+<status status="PASS" starttime="20181026 13:33:14.537" endtime="20181026 13:33:14.538"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_var2}[2]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.538" level="INFO">I am item 3</msg>
+<status status="PASS" starttime="20181026 13:33:14.538" endtime="20181026 13:33:14.538"></status>
+</kw>
+<status status="PASS" starttime="20181026 13:33:14.537" endtime="20181026 13:33:14.538" critical="yes"></status>
+</test>
+<test id="s1-t3" name="Test case 3">
+<kw name="Set Variable" library="BuiltIn">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>item 1</arg>
+<arg>item 2</arg>
+<arg>item 3</arg>
+</arguments>
+<assign>
+<var>@{my_list_var}</var>
+</assign>
+<msg timestamp="20181026 13:33:14.539" level="INFO">@{my_list_var} = [ item 1 | item 2 | item 3 ]</msg>
+<status status="PASS" starttime="20181026 13:33:14.539" endtime="20181026 13:33:14.539"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_list_var}[0]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.539" level="INFO">item 1</msg>
+<status status="PASS" starttime="20181026 13:33:14.539" endtime="20181026 13:33:14.539"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_list_var}[1]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.539" level="INFO">item 2</msg>
+<status status="PASS" starttime="20181026 13:33:14.539" endtime="20181026 13:33:14.540"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_list_var}[2]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.540" level="INFO">item 3</msg>
+<status status="PASS" starttime="20181026 13:33:14.540" endtime="20181026 13:33:14.540"></status>
+</kw>
+<status status="PASS" starttime="20181026 13:33:14.538" endtime="20181026 13:33:14.540" critical="yes"></status>
+</test>
+<test id="s1-t4" name="Test case 4">
+<kw name="Create List" library="BuiltIn">
+<doc>Returns a list containing given items.</doc>
+<arguments>
+<arg>create lisVar 1</arg>
+<arg>create lisVar 2</arg>
+<arg>create lisVar 3</arg>
+</arguments>
+<assign>
+<var>@{my_list_var2}</var>
+</assign>
+<msg timestamp="20181026 13:33:14.541" level="INFO">@{my_list_var2} = [ create lisVar 1 | create lisVar 2 | create lisVar 3 ]</msg>
+<status status="PASS" starttime="20181026 13:33:14.541" endtime="20181026 13:33:14.541"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_list_var2}[0]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.541" level="INFO">create lisVar 1</msg>
+<status status="PASS" starttime="20181026 13:33:14.541" endtime="20181026 13:33:14.541"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_list_var2}[1]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.541" level="INFO">create lisVar 2</msg>
+<status status="PASS" starttime="20181026 13:33:14.541" endtime="20181026 13:33:14.541"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>@{my_list_var2}[2]</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.542" level="INFO">create lisVar 3</msg>
+<status status="PASS" starttime="20181026 13:33:14.542" endtime="20181026 13:33:14.542"></status>
+</kw>
+<status status="PASS" starttime="20181026 13:33:14.540" endtime="20181026 13:33:14.542" critical="yes"></status>
+</test>
+<test id="s1-t5" name="Test case 5">
+<kw name="Home sweet home">
+<assign>
+<var>${MY_G_VAR} =</var>
+</assign>
+<msg timestamp="20181026 13:33:14.549" level="FAIL">No keyword with name 'Home sweet home' found.</msg>
+<status status="FAIL" starttime="20181026 13:33:14.549" endtime="20181026 13:33:14.549"></status>
+</kw>
+<status status="FAIL" starttime="20181026 13:33:14.542" endtime="20181026 13:33:14.550" critical="yes">No keyword with name 'Home sweet home' found.</status>
+</test>
+<test id="s1-t6" name="Test case 6">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${MY_G_VAR}</arg>
+</arguments>
+<msg timestamp="20181026 13:33:14.551" level="FAIL">Variable '${MY_G_VAR}' not found. Did you mean:
+    ${my_var2}
+    ${MY_VAR1}</msg>
+<status status="FAIL" starttime="20181026 13:33:14.550" endtime="20181026 13:33:14.552"></status>
+</kw>
+<status status="FAIL" starttime="20181026 13:33:14.550" endtime="20181026 13:33:14.552" critical="yes">Variable '${MY_G_VAR}' not found. Did you mean:
+    ${my_var2}
+    ${MY_VAR1}</status>
+</test>
+<doc>Test scalar vaeriable</doc>
+<status status="FAIL" starttime="20181026 13:33:14.508" endtime="20181026 13:33:14.552"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="2">Critical Tests</stat>
+<stat pass="4" fail="2">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="4" fail="2" id="s1" name="Scalar">Scalar</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
